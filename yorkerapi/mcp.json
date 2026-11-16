@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "yorkerapi": {
+      "url": "https://mcp.yorkerapi.com/mcp"
+    }
+  }
+}

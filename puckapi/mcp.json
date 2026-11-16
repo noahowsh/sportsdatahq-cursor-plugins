@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "puckapi": {
+      "url": "https://mcp.puckapi.com/mcp"
+    }
+  }
+}

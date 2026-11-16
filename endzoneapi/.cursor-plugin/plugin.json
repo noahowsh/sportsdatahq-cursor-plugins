@@ -1,0 +1,19 @@
+{
+  "name": "endzoneapi",
+  "version": "1.0.0",
+  "description": "EndzoneAPI: NFL data since 1999: play-by-play with EPA and win probability, weekly player stats, injuries, depth charts, snap counts and odds. Remote MCP server with OAuth sign-in; free account with 500 credits a month.",
+  "author": {
+    "name": "SportsDataHQ",
+    "email": "hello@sportsdatahq.com"
+  },
+  "homepage": "https://endzoneapi.com/mcp",
+  "repository": "https://github.com/noahowsh/sportsdatahq-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "nfl",
+    "sports-data",
+    "sports-analytics",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

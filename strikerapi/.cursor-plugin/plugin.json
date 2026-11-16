@@ -1,0 +1,19 @@
+{
+  "name": "strikerapi",
+  "version": "1.0.0",
+  "description": "StrikerAPI: 17 soccer leagues: results, lineups, every event, shots with location and xG, tables, ratings and odds. Remote MCP server with OAuth sign-in; free account with 500 credits a month.",
+  "author": {
+    "name": "SportsDataHQ",
+    "email": "hello@sportsdatahq.com"
+  },
+  "homepage": "https://strikerapi.com/mcp",
+  "repository": "https://github.com/noahowsh/sportsdatahq-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "soccer",
+    "sports-data",
+    "sports-analytics",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

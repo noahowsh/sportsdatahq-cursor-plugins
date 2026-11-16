@@ -1,0 +1,19 @@
+{
+  "name": "dunkapi",
+  "version": "1.0.0",
+  "description": "DunkAPI: NBA, WNBA and college basketball: play-by-play with every shot located, box scores, team ratings, injuries and odds. Remote MCP server with OAuth sign-in; free account with 500 credits a month.",
+  "author": {
+    "name": "SportsDataHQ",
+    "email": "hello@sportsdatahq.com"
+  },
+  "homepage": "https://dunkapi.com/mcp",
+  "repository": "https://github.com/noahowsh/sportsdatahq-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "nba",
+    "sports-data",
+    "sports-analytics",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

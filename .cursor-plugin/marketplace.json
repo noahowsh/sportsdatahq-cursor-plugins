@@ -1,0 +1,57 @@
+{
+  "name": "sportsdatahq",
+  "owner": {
+    "name": "SportsDataHQ",
+    "email": "hello@sportsdatahq.com"
+  },
+  "metadata": {
+    "description": "Sports data MCP servers for Cursor: NFL, NBA, NHL, MLB, soccer, tennis, golf, UFC and cricket."
+  },
+  "plugins": [
+    {
+      "name": "puckapi",
+      "source": "puckapi",
+      "description": "PuckAPI: NHL data"
+    },
+    {
+      "name": "endzoneapi",
+      "source": "endzoneapi",
+      "description": "EndzoneAPI: NFL data"
+    },
+    {
+      "name": "dunkapi",
+      "source": "dunkapi",
+      "description": "DunkAPI: NBA data"
+    },
+    {
+      "name": "strikerapi",
+      "source": "strikerapi",
+      "description": "StrikerAPI: soccer data"
+    },
+    {
+      "name": "fastballapi",
+      "source": "fastballapi",
+      "description": "FastballAPI: MLB data"
+    },
+    {
+      "name": "acesapi",
+      "source": "acesapi",
+      "description": "AcesAPI: tennis data"
+    },
+    {
+      "name": "birdieapi",
+      "source": "birdieapi",
+      "description": "BirdieAPI: golf data"
+    },
+    {
+      "name": "fighterapi",
+      "source": "fighterapi",
+      "description": "FighterAPI: UFC data"
+    },
+    {
+      "name": "yorkerapi",
+      "source": "yorkerapi",
+      "description": "YorkerAPI: cricket data"
+    }
+  ]
+}

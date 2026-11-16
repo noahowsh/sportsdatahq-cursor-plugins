@@ -1,0 +1,19 @@
+{
+  "name": "fastballapi",
+  "version": "1.0.0",
+  "description": "FastballAPI: MLB since 2015: every pitch and plate appearance, win probability, run value, spray charts, box scores and odds. Remote MCP server with OAuth sign-in; free account with 500 credits a month.",
+  "author": {
+    "name": "SportsDataHQ",
+    "email": "hello@sportsdatahq.com"
+  },
+  "homepage": "https://fastballapi.com/mcp",
+  "repository": "https://github.com/noahowsh/sportsdatahq-cursor-plugins",
+  "license": "MIT",
+  "keywords": [
+    "mlb",
+    "sports-data",
+    "sports-analytics",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
